@@ -1,0 +1,84 @@
+body{
+    width: 100%;
+    background-color: rgb(73, 154, 247);
+}
+
+.row{
+    margin-right: 0;
+}
+
+.row > *{
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.hdr{
+    height: 100px;
+}
+
+.spacer{
+    height: 500px;
+}
+
+.field{
+    height: 500px;
+    background-color: white;
+    /* border-radius: 4px; */
+}
+
+
+.mrgLft{
+    margin-left: 20px;
+}
+
+.mrgTop{
+    margin-top: 15px;
+}
+
+.signUp{
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 0px;
+    margin-left: 32px;
+    /* border-bottom: 1px solid gray; */
+}
+
+.longer{
+    padding-right: 10px;
+}
+
+h6{
+    font-size: 12px;
+    color: gray;
+    font-weight: 400;
+}
+
+#firstName{
+    /* margin-left: 0px; */
+}
+
+.btn{
+    padding: 5px 35px;
+    background-color: rgb(73, 154, 247);
+    border: 0px;
+}
+
+.form-check{
+    font-size: 12px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.footer{
+    margin-top: 10px;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.ftrLink{
+    color: white;
+    text-decoration: underline;
+}
