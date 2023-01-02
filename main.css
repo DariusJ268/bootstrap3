@@ -26,7 +26,6 @@ body{
     /* border-radius: 4px; */
 }
 
-
 .mrgLft{
     margin-left: 20px;
 }
@@ -81,4 +80,9 @@ a{
 .ftrLink{
     color: white;
     text-decoration: underline;
+}
+
+p{
+    font-size: 13px;
+    text-align: center;
 }
